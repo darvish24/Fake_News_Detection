@@ -1,6 +1,6 @@
 # Fake_News_Detection
 
-###Project Title: Fake News Detection
+### Project Title: Fake News Detection
 ```
 Group Members
 Name	          SAP ID	  Roll No
